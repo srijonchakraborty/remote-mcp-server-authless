@@ -46,5 +46,9 @@ Update with this configuration:
   }
 }
 ```
+## Connect MCP server From code (.NET Client Application)
+Check the Repository LINK: https://github.com/srijonchakraborty/mcp-client-sse
+
+
 
 Restart Claude and you should see the tools become available. 
